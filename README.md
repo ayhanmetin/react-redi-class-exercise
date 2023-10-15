@@ -1,8 +1,5 @@
 # ReDI School: React Development Exercises 
 
-You can also find more resources to help you on your React learning journey in [Resources for the ReDI React Class
-](https://github.com/ReDI-School/nrw-react#resources-for-the-redi-react-class)
-
 ## Table of Contents
 
 - [01 - Welcome and JavaScript Recap](#01---welcome-and-javascript-recap)
@@ -19,3 +16,5 @@ You can also find more resources to help you on your React learning journey in [
 - [12- Children and Styling](#12---children-and-styling)
 - [13 - React Workshop](#13---react-workshop)
 - [14 - Retro and Styling Exercises](#14---retro-and-styling-exercises)
+
+You can also find more resources in [Resources for the ReDI React Class](https://github.com/ReDI-School/nrw-react#resources-for-the-redi-react-class)
