@@ -12,4 +12,4 @@ Just clone the repository and open `index.html` in your browser.
 
 ## Demonstration
 
-![Dark Mode Toggle Demo](/darkMode.gif)
+![Dark Mode Toggle Demo](darkMode.gif)
